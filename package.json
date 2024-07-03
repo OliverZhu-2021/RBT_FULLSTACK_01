@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "name": "rbt_fullstack_01",
+  "description": "Try to do some change",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oliv",
+  "license": "ISC"
+}
